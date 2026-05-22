@@ -1,0 +1,17 @@
+adverse_event,semaglutide_rate,placebo_rate
+nausea,44,17.0
+vomiting,24,6.0
+diarrhea,30,16.0
+constipation,24,11.0
+abdominal pain,10,4.0
+dyspepsia,7,3.0
+gastroesophageal reflux disease,5,2.0
+hypoglycemia,6,3.0
+fatigue,8,5.0
+headache,9,6.0
+dizziness,5,3.0
+decreased appetite,12,4.0
+pancreatitis,1,0.0
+gallbladder disease,2,1.0
+acute kidney injury,1,0.5
+retinopathy,7,6.0
